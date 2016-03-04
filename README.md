@@ -1,2 +1,4 @@
 # hello_world
-learningo how to use git
+learning how to use git
+
+This is a change at the document in the new branch
